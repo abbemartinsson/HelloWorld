@@ -8,3 +8,5 @@ C++
 HTML
 <br/>
 Javascript
+<br/>
+LOLCode
