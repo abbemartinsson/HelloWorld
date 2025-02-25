@@ -15,3 +15,5 @@ LOLCode
 ArnoldC
 <br/>
 Assembly
+<br/>
+Lua
